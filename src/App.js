@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import './App.css';
 
-import HodePage from './homepage.component'
+import HodePage from './pages/homepage/homepage.component.jsx'
 
 class App extends Component {
   render() {
